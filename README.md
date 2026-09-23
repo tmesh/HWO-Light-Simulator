@@ -1,4 +1,4 @@
-# HWO Light Simulator (HWOLS)
+# HWO Light Simulator (HOWLS)
 
 ## Goals
 
